@@ -5,4 +5,3 @@ import pickle
 import tensorflow
 from tensorflow import keras
 
-with open('')
